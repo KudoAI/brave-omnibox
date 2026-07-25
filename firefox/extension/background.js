@@ -12,6 +12,6 @@ const braveURL = 'https://search.brave.com'
 // Launch Brave Search on toolbar icon click
 chrome.action.onClicked.addListener(async () => {
     const [activeTab] = await chrome.tabs.query({ active: true, currentWindow: true }),
-          query = new URL(activeTab?.url || 'about:blank').searchParams.get('q') || chrome.i18n.getMessage('query_hi')
+           query = new URL(activeTab?.url || 'about:blank').searchParams.get('q') || chrome.i18n.getMessage('query_hi')
     chrome.tabs.create({ url: `${braveURL}/ask?q=${query}` })
 })
