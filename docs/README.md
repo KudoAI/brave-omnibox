@@ -1,3 +1,10 @@
+***
+
+> [!IMPORTANT]  
+> This project has moved to **<https://codeberg.org/adamlui/brave-omnibox>**
+
+***
+
 <div align="center">
  
 <img width="100%" src="https://cdn.jsdelivr.net/gh/KudoAI/brave-omnibox@d722a3b/assets/images/tiles/marquee/edge/tile1400x560.png">
