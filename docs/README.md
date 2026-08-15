@@ -1,7 +1,7 @@
 ***
 
 > [!IMPORTANT]  
-> This project has moved to **<https://codeberg.org/adamlui/brave-omnibox>**
+> This project has moved to **<https://codeberg.org/KudoAI/brave-omnibox>**
 
 ***
 
